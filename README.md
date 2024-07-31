@@ -3,3 +3,4 @@
 ▪️ Despejado: Representa la ausencia de lluvia y de nubes 
 ▪️ Nublado: Señala la presencia de nubes, con el fin de inferir la posibilidad de una pronta lluvia 
 ▪️ Lluvia: Indica la presencia de lluvia
+
